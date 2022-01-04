@@ -14,4 +14,6 @@
 
 &#8226; In the dashboard uses nested routing system.
 
+&#8226; Here use name Admin for which admin@admin.com is email address also have administrative power for this site.
+
 &#8226; Uses: Client side-React app, react bootstrap, firebase for authentication, react hook form, react router dom, font awesome cdn.  Server side- express, mongodb, node.js.
